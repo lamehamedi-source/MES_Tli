@@ -8,4 +8,4 @@ npm run dev     # start dev server
 npm run build   # production build into dist/
 ```
 
-The demo scene is in `src/main.js`.
+The demo is a simplified LEAP-style high-bypass turbofan built procedurally from three.js primitives (`src/engine.js`), with orbit controls, a cutaway toggle, and spinning LP/HP spools (`src/main.js`).
